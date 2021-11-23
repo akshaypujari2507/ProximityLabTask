@@ -13,7 +13,7 @@ Material design guideline.
 
 # data: It contains all the data accessing and manipulating components.
 	I. remote
-		1. socket provider services
+		1. socket provider
 		2. models for api
 	II. repository
 		1. Repository for remote data.
